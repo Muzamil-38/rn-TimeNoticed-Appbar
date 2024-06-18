@@ -1,3 +1,5 @@
+const {EndOfLineState} = require('typescript');
+
 module.exports = {
   arrowParens: 'avoid',
   bracketSameLine: true,
